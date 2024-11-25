@@ -1,0 +1,6 @@
+Create a website that allows users to upload csv files of pokernow.club game logs.
+
+Then the logs are parsed through so that all game details and player actions are stored in a database, presumably SQL.
+This database is hidden but contains the information from every csv file that was ever uploaded to the website.
+
+In return, after a user has uploaded at least 50 hands, they gain access to the data, which they can use to study player tendencies and see their own.
